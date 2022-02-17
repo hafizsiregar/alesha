@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779590064294",
+    "project_id": "alesha-30617",
+    "storage_bucket": "alesha-30617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779590064294:android:5df3a88fb7aacf0738fc67",
+        "android_client_info": {
+          "package_name": "com.example.alesha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779590064294-46p7ng3a88dberq76lll6vootrp00s77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxE59nVKpQW7Td09G2dJXIejIdp97zCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779590064294-46p7ng3a88dberq76lll6vootrp00s77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
